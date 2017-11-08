@@ -19,3 +19,7 @@ function overwriteBestCustomer() {
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "rose";
 }
+function attemptTwoFavoriteCustomers() {
+  const favoriteCustomer;
+  const favoriteCustomer;
+}
